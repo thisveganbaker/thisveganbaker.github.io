@@ -23,7 +23,7 @@ avatar_image: /img/23_11_01 MT Gibbs Social Media.jpg
 #-------------------------------
 # Contact links
 linkedln: "https://www.linkedin.com/in/mt-gibbs/" # Add your linkedln handle
-github: "https://github.com/thisveganbaker.github.io"  # Add your github handle
+github: "https://github.com/thisveganbaker"  # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
