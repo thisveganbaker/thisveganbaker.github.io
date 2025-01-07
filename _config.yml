@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: MT Gibbs
-description: "Hi I'm MT, a data-driven professional with expertise in Business Intelligence and Supplier Diversity. I'm passionate about using tools like Python, SQL, PowerBI and Tableau to drive impactful insights and solutions. Check out my projects and connect with me via GitHub or LinkedIn (or download my Resume) by using the links below!"
+description: "Hi I'm MT, a data-driven professional with expertise in Business Intelligence and Supplier Diversity. My portfolio focuses on interesting projects I've recently undertaken using tools like Python, SQL, PowerBI and Tableau to drive impactful insights and solutions. Check out my projects and connect with me via GitHub or LinkedIn (or download my Resume) by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
