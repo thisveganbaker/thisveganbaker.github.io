@@ -17,9 +17,6 @@ This Tableau dashboard provides an interactive and visual summary of earthquake 
 
 The dashboard includes four primary visualizations, each offering unique perspectives on earthquake activity.
 
-## Accessing the Dashboard
-## The dashboard is hosted on Tableau Public and can be accessed via this link: [30-Day Earthquake Tracker Dashboard] ##(https://public.tableau.com/shared/25WXXNKNN?:display_count=n&:origin=viz_share_link). No special permissions or credentials are required.
-
 ---
 
 ## Dashboard Features
